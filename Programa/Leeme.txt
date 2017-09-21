@@ -1,0 +1,3 @@
+El arcihvo fue probado con los laberintos
+que aparecen en esta misma carpeta, entregando
+como salida un archivo salida.out
